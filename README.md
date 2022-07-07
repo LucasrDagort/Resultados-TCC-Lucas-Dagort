@@ -9,5 +9,5 @@ O respositório possui dois arquivos principais:
     - Arquivo Validação Correlação Espacial: Contém os valores da correlação espacial calculada entre os dados de desvios errados e a curva de geração prevista utilizada       para gerar os desvios. 
     - Validação métricas: Contém os valores de média, desvio padrão, mediana, assimetria entre outroas métrica calculadas a partir dos desvios gerados
     - Arquivo Validação PEPACF: possui as correlaçãoes temporais entre os desvos gerados e a curva de geração prevista utilizada para gerar os desvios.  
-    - Excel Cenarios Desvios Após Truncamento: Desvios gerados após o pós-processamento
-    - Excel Cenários Geracao Ajustada Após Truncamento : geração prevista ajustada pelos desvios truncados 
+    - Excel Cenarios Desvios Após Truncamento: Desvios gerados após o pós-processamento (apenas para o caso da validação final)
+    - Excel Cenários Geracao Ajustada Após Truncamento : geração prevista ajustada pelos desvios truncados (apenas para o caso da validação final)
